@@ -18,6 +18,7 @@ class _SignInScreenState extends State<SignInScreen> {
   @override
   Widget build(BuildContext context) {
     final screenSize = Utils().getScreenSize();
+    
     return Scaffold(
       body: Padding(
         padding: const EdgeInsets.symmetric(

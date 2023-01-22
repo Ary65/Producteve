@@ -98,7 +98,7 @@ class _CartScreenState extends State<CartScreen> {
                           borderSide:
                               BorderSide(color: Colors.black38, width: 1),
                         ),
-                        hintText: 'Search Amazon.in',
+                        hintText: 'Search in Producteve',
                         hintStyle: const TextStyle(
                           fontWeight: FontWeight.w500,
                           fontSize: 17,

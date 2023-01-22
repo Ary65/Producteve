@@ -34,7 +34,7 @@ class ProductScreen extends StatefulWidget {
 
 class _ProductScreenState extends State<ProductScreen> {
   Expanded spaceThingy = Expanded(child: Container());
-  
+
   void navigateToResultScreen(String query) {
     Navigator.push(
         context,
@@ -134,7 +134,7 @@ class _ProductScreenState extends State<ProductScreen> {
                             borderSide:
                                 BorderSide(color: Colors.black38, width: 1),
                           ),
-                          hintText: 'Search Amazon.in',
+                          hintText: 'Search in Producteve',
                           hintStyle: const TextStyle(
                             fontWeight: FontWeight.w500,
                             fontSize: 17,
