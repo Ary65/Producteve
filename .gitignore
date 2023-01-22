@@ -1,5 +1,4 @@
 *.json
-google-services.json
 # Miscellaneous
 *.class
 *.log
